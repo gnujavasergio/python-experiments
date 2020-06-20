@@ -1,0 +1,4 @@
+## Ejecucion
+```
+python main.py
+```
