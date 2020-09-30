@@ -50,7 +50,8 @@ print(type(True))  # <class 'bool'>
 
 ## Constantes
 - Constante en python no existe
-- Para poder declarar una constante un Python se puede declarar la variable todo en mayuscula.
+- Para poder declarar una constante un Python se puede declarar 
+la variable todo en mayuscula.
 ```python
 PI = 3.1416
 print(PI)
